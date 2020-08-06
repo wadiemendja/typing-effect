@@ -1,0 +1,13 @@
+.container #textarea {
+    width: 50%;
+    height: 50%;
+    border: 5px solid lightgray;
+    border-radius: 5px;
+    margin-top: 5px;
+}
+
+.container .effectarea #effect {font-size: large;}
+
+.container .effectarea{margin-top: 10px;}
+
+.container {text-align: center;}
